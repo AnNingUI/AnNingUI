@@ -17,17 +17,14 @@
 
 ### 🧑‍💻 最近一年贡献记录
 显示过去一年的贡献记录（看我每一天的努力💪）：
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnNingUI&theme=radical" />
-</p>
+![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnNingUI&theme=github_dark)
 
-<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnNingUI/AnNingUI/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnNingUI/AnNingUI/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AnNingUI/AnNingUI/output/github-contribution-grid-snake.svg" />
 </picture>
-</p>
+
 
 ### 🛠️技术栈
 <p align="center">
