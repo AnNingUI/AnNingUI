@@ -41,5 +41,5 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
 </p>
 
-感谢你访问我的 GitHub！如果你觉得我的项目有趣，欢迎给我点个🌟，让我知道你喜欢！😊  
-我相信，通过不断学习和努力，未来会变得更加精彩！🚀
+<h6 style="color: rgb(251,249,250,0.8); text-shadow: 0 0 1px rgb(5, 9, 3) ,0 0 2px rgba(255, 255, 198, 0.8);">感谢你访问我的 GitHub！如果你觉得我的项目有趣，欢迎给我点个🌟，让我知道你喜欢！😊  
+我相信，通过不断学习和努力，未来会变得更加精彩！🚀</h6>
