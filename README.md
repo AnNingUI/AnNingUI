@@ -3,6 +3,8 @@
 我是 **AnNingUI**，一名正在学习编程的初学者。🚀  
 我的目标是不断挑战自己、学习新技能，并与世界分享我的成长过程。
 
+---
+
 ### 📚 我的技能
 - 💻 **前端开发**：HTML, CSS, JavaScript, Vue.js, React (正在学习中)
 - 🛠️ **工具与框架**：Git, Node.js, VSCode
@@ -10,21 +12,46 @@
 - 🎮 **游戏开发**：Minecraft Modding (正在制作一些小项目)
 - 🧑‍💻 **其他技能**：基本的算法与数据结构，学习如何更好地解决问题
 
+---
+
 ### 📊 我的贡献统计
-|📊统计|🔥语言|
-|---|---|
-|[![xiaoliziawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnNingUI&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/AnNingUI)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnNingUI&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AnNingUI)|
+<p align="center">
+<table align="center">
+  <thead>
+    <tr>
+      <th>📊统计</th>
+      <th>🔥语言</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=AnNingUI&show_icons=true&theme=transparent&hide_border=true"></img></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnNingUI&layout=compact&theme=transparent&hide_border=true"></img></td>
+    </tr>
+  </tbody>
+</table>
+</p>
+
+---
 
 ### 🧑‍💻 最近一年贡献记录
-显示过去一年的贡献记录（看我每一天的努力💪）：
-![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnNingUI&theme=github_dark)
 
+<p align="center">
+<span style="color: rgb(251,249,250,0.8); text-shadow: 0 0 1px rgb(5, 9, 3) ,0 0 2px rgba(255, 255, 198, 0.8);">
+显示过去一年的贡献记录（看我每一天的努力💪）：
+</span>
+<!-- <div style="background-color: #ffffff"> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnNingUI&theme=transparent" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnNingUI/AnNingUI/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnNingUI/AnNingUI/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AnNingUI/AnNingUI/output/github-contribution-grid-snake.svg" />
 </picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnNingUI&theme=github-compact" />
+<!-- </div> -->
+</p>
 
+---
 
 ### 🛠️技术栈
 <p align="center">
@@ -41,5 +68,9 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
 </p>
 
-<h6 style="color: rgb(251,249,250,0.8); text-shadow: 0 0 1px rgb(5, 9, 3) ,0 0 2px rgba(255, 255, 198, 0.8);">感谢你访问我的 GitHub！如果你觉得我的项目有趣，欢迎给我点个🌟，让我知道你喜欢！😊  
-我相信，通过不断学习和努力，未来会变得更加精彩！🚀</h6>
+---
+
+<span style="color: rgb(251,249,250,0.8); text-shadow: 0 0 1px rgb(5, 9, 3) ,0 0 2px rgba(255, 255, 198, 0.8);">
+感谢你访问我的 GitHub！如果你觉得我的项目有趣，欢迎给我点个🌟，让我知道你喜欢！😊  
+我相信，通过不断学习和努力，未来会变得更加精彩！🚀
+</span>
