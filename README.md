@@ -1,6 +1,6 @@
 # 🌱 你好，欢迎来到我的编程世界！🌱
 
-我是 **AnNingUI**，一名正在学习编程的初学者。🚀  
+我是 **AnNingUI**，一名正在学习编程的初学者。🚀
 我的目标是不断挑战自己、学习新技能，并与世界分享我的成长过程。
 
 ---
@@ -25,8 +25,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=AnNingUI&show_icons=true&theme=transparent&hide_border=true"></img></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnNingUI&layout=compact&theme=transparent&hide_border=true"></img></td>
+      <td><img src="./profile/stats.svg"></img></td>
+      <td><img src="./profile/top-langs.svg"></img></td>
     </tr>
   </tbody>
 </table>
@@ -71,6 +71,6 @@
 ---
 
 <span style="color: rgb(251,249,250,0.8); text-shadow: 0 0 1px rgb(5, 9, 3) ,0 0 2px rgba(255, 255, 198, 0.8);">
-感谢你访问我的 GitHub！如果你觉得我的项目有趣，欢迎给我点个🌟，让我知道你喜欢！😊  
+感谢你访问我的 GitHub！如果你觉得我的项目有趣，欢迎给我点个🌟，让我知道你喜欢！😊
 我相信，通过不断学习和努力，未来会变得更加精彩！🚀
 </span>
